@@ -1,6 +1,6 @@
 # Inducing Functions through Reinforcement Learning without Task Specification
 
-This repository is the official implementation of [Inducing Functions through Reinforcement Learning without Task Specification](https://arxiv.org/abs/2030.12345).
+This repository is the official implementation of [Inducing Functions through Reinforcement Learning without Task Specification](https://arxiv.org/abs/2111.11647).
 The implemented code is mostly brought from [rlkit](https://github.com/vitchyr/rlkit).
 
 ## Requirements
